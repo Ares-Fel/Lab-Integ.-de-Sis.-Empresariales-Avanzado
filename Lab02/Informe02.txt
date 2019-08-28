@@ -7,7 +7,15 @@ Integracion de Sistemas Empresariales Avanzado
 
 Desarrollo
 
+3.3 Instalando el modulo proyecto --> modproyecto.png
 
+3.5 Modulos instalados --> modinstalados.png
+
+4.1 Indique el nombre del módulo al que pertenece cada “Tablero” de opciones mostrado:
+
+ - Gestion de Ausencias
+ - Punto de Venta
+ - Gestion de Facturas
 --------------------------------------------------------------------------------
 
 Conclusiones
