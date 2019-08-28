@@ -17,6 +17,11 @@ Desarrollo
 
 Conexionn de Odoo con la base de datos postgres mediante pgAdmin --> coneccion.png
 
+TAREA
+
+1. modulos.png
+2. erp.png
+
 --------------------------------------------------------------------------------
 
 Conclusiones
