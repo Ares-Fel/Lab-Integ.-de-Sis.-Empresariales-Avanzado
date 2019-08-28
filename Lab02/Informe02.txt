@@ -20,6 +20,8 @@ Desarrollo
 5.13 Moddulo testmodulo1 instalado --> testmodulo1.png
 
 5.15 Paramtros cambiados en el archivo .py --> testmodulo1.png
+
+Tarea --> tarea1.png
 --------------------------------------------------------------------------------
 
 Conclusiones
