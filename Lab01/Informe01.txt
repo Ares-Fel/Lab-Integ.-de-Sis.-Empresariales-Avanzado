@@ -7,10 +7,25 @@ Integracion de Sistemas Empresariales Avanzado
 
 Desarrollo
 
+3. Instalacion de ERP - ODOO en Linux (Debian 9)
+	
+	Instalacion completa --> instalacion.png
+   3.1  Crear DataBase en odoo --> basedatos.png
+
+4. Acceder al software ERP-ODOO
+	Panel de control --> portalOdoo.png
+
+Conexionn de Odoo con la base de datos postgres mediante pgAdmin --> coneccion.png
 
 --------------------------------------------------------------------------------
 
 Conclusiones
 
+ - La instalacion del ERP-Odoo, postgresql y pgAdmin se icieron en una maquina con linux (debian).
+ - Para la instalacion de Odoo en un sistema linux se requiere de algunas dependencias python. 
+ - Para poder hacer la conexion de Odoo mediante pgAmin, se necesita crear la base de datos en postgres, teniendo en cuenta el nombre de la la bd y el password
+ - Los ERP son sistemas que manejan empresas vinculadas a operaciones de produccion.
+ - Odoo permite la gestion de compra y venta, getion de proyectos, manufactura, puntos de venta, gestion de inventario, etc.
+ - Como vimos en el laboratorio, Odoo usa como gestor de base de datos PostgreSQL
 
 
