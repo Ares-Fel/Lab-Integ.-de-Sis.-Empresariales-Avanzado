@@ -16,9 +16,18 @@ Desarrollo
  - Gestion de Ausencias
  - Punto de Venta
  - Gestion de Facturas
+
+5.13 Moddulo testmodulo1 instalado --> testmodulo1.png
+
+5.15 Paramtros cambiados en el archivo .py --> testmodulo1.png
 --------------------------------------------------------------------------------
 
 Conclusiones
 
+ - Tener en cuenta que si se tiene dos versiones diferentes de Postgres, es posible que ocurra un conclifto al momento de que Odoo se inicie.
+ - Odoo nos permite crear nuestros propios modulos mediante el comando scaffold, se debe ingresar la ruta donde se guardara los modulos.
+ - Tener en cuenta que distribucion de linux se esta usando, en este caso se uso Debian 9, con lo cual el comando para crear el modulo cambia.
+ - Al activar el modo desarrollador en configuraciones de Odoo este nos habilita nuevas opciones como actualizar la lista de aplicaciones, esta opcion cambia la ruta agregandole debug.
+ - Los archivos .py creados junto con el nuevo modulo permiten inicializar lo cual lo hace obligatorio en cualquier modulo.
 
 
