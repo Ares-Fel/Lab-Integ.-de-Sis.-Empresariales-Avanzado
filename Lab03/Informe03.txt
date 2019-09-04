@@ -1,0 +1,16 @@
+
+Flores Bellido Angel - C15
+
+Integracion de Sistemas Empresariales Avanzado
+
+--------------------------------------------------------------------------------
+
+Desarrollo
+
+6.2.3 Se ha creado el submenu iniciativas --> submenuIniciativas.png
+--------------------------------------------------------------------------------
+
+Conclusiones
+
+
+- Al crear un modulo, en es te caso CRM, nos permite entrar a un asistente de configuracion de modulo, que nos detalla paso a paso informaci'on y ajustes del mismo modulo.
