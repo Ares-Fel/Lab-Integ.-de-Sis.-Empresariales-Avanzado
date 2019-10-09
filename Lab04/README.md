@@ -5,4 +5,4 @@
 ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab04/exportar_informacion.png)
 
 - Podemos importar informacion desde un archivo .xlsx o un archivo .csv
-![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab04/importar_informacion.png
+![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab04/importar_informacion.png)
