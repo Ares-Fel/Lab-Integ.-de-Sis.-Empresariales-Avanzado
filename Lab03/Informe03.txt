@@ -8,9 +8,31 @@ Integracion de Sistemas Empresariales Avanzado
 Desarrollo
 
 6.2.3 Se ha creado el submenu iniciativas --> submenuIniciativas.png
+
+7.11 El mensaje enviado por el formualrio de contacto --> mensaje.png
+
+7.17 
+	- Datos ingresados mediante el foemulario contactenos
+		--> capacitacion.png
+		--> salud.png
+	- Se muestra en iniciativa los pedidos mediante el formulario
+		--> iniciativa.png
+	- Se muestra ahora como oprtunidades --> oportunidad.png
 --------------------------------------------------------------------------------
 
+Tarea
+
+1. 	
+	- Primero creamos la tabla en un excel, con sus respectivas cabeceras por ejemplo DNI y Apellidos
+	- Guardamos el archivos como .csv
+	- En la opcion de clientes de CRM le damos clic a la opcion importar
+	- Le damos clic en cargar ficher, seleccionamos el archivo .csv
+	- Los datos se cargaran en pantalla	
+--------------------------------------------------------------------------------
 Conclusiones
 
 
 - Al crear un modulo, en es te caso CRM, nos permite entrar a un asistente de configuracion de modulo, que nos detalla paso a paso informaci'on y ajustes del mismo modulo.
+- A partir de la sugerencia de un contacto podemos convertirla en una oportunidad para que pueda aparecer en el flujo de ventas
+- Mediante la opcion Website builder podemos crear el sitio web para la empresa, en la cual podemos modificar los texto e imagenes adecuadas para la empresa.
+- Odoo CRM ons permite añadir manualmente contactos en el flujo de ventas las cuales pueden ser una iniciativa o una oportunidad
