@@ -6,19 +6,19 @@
 
    * Instalamos el módulo de ventas
    
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab04/modulo_inventario.png)
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/modulo_ventas.png)
    
 **2. Creación de Cotización a cliente**
 
-   * Vemos que podemos crear contactos como gerentes, asistentes, etc; direcciones de
-facturación, de envío, etc. Esto nos servirá a futuro para contactos con múltiples sucursales o personas
-a cargo.
+   * Demos click en Guardar y luego en Validar. Al validar la cotización, aparecerán nuevas opciones, como Enviar por Email, Imprimir o incluso, Confirmar Venta (recordar que esta es solamente una cotización para un cliente interesado en comprar)
 
-   
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/confirma_venta.png)
    
 **3. Entrega de productos de una Cotización**
 
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/factura_borrador.png)
+   * Incrementar stock del producto Manzana verde
+
+   ![]()
 
 **4. Facturación y registro de pago de una Cotización**
 
@@ -26,9 +26,26 @@ a cargo.
    
    ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/factura_borrador.png)
    
+   A* l igual que con otros documentos, aparecerán nuevas opciones en esta factura. Podremos incluso crear un correo con el adjunto de la factura generada para pagar.
+   
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/email.png)
+   
+   * Si vemos el detalle de la factura, en la parte de los totales veremos registrado el pago y el saldo
+pendiente de pago.
+   
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/detalle_factura.png)
+   
+   * Al haber validado esta factura, se afectará al estado del cliente. Si buscamos en el menú Clientes, veremos que nuestro contacto ahora tiene un indicador de cuantas ventas tiene.
+
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/cantidad_ventas.png)
+   
 **5. Configuración de envío de Correos**
 
-   * Aqui hacemos clic en el botn probar conexio y esperamos, verá que rechaza su solicitud. Esto es debido a
+   * De click en Editar para modificar el servidor de correo. Ingresaremos la siguiente data. Reemplace el correo por el suyo propio de Tecsup y coloque la contraseña que utiliza para iniciar sesión.
+   
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/envio_correo.png)
+
+   * Aqui hacemos clic en el boton probar conexion y esperamos, verá que rechaza su solicitud. Esto es debido a
 una protección por defecto de Gmail. Vamos a deshabilitarla.
 
    ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/probar_conexion.png)
@@ -47,4 +64,4 @@ una protección por defecto de Gmail. Vamos a deshabilitarla.
 
 **8. Portal del cliente**
 
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/factura_borrador.png)
+   ![]()
