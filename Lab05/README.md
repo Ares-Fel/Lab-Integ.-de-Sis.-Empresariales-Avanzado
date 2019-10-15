@@ -18,7 +18,7 @@
 
    * Incrementar stock del producto Manzana verde
 
-   ![]()
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/incrementar_stock.png)
 
 **4. Facturación y registro de pago de una Cotización**
 
