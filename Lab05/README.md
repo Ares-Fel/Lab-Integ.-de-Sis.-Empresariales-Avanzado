@@ -64,4 +64,12 @@ una protección por defecto de Gmail. Vamos a deshabilitarla.
 
 **8. Portal del cliente**
 
-   ![]()
+   * En el portal el cliente podra ver las facturas o pedidos realizados.
+   
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/portal_pedido.png)
+
+## Conclusiones
+   
+   * Odoo permite crear cotizaciones, luego validarlas para que pueda emitir una factura por el pago anticipado y otra factura por el restante de la deuda
+   * Nos da la opcion de enviar un correo eectronico adjuntando la factura generada por el pago de una cotizacion.
+   * Le permite al cliente teer un portal exclusivo para visualizar todos sus pedidos de ventas, facturas emitiads, asi como tambien administrar su informacion de cuenta o contacto de ese portal.
