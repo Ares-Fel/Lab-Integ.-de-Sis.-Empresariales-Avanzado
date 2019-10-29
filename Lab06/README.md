@@ -6,62 +6,56 @@
 
    * Vaya al menú de Aplicaciones e instale el módulo Compras.
    
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/modulo_ventas.png)
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab06/imgs/1modulo_compras.png)
    
 **2. Creación de Solicitud de presupuesto**
 
    * Podemos ver que al crear la solicitud de presupuesto se habilitan las opciones de Imprimir e incluso enviar por correo electrónico.
+   
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab06/imgs/2correo.png)
 
    * Validemos la Solicitud de presupuesto y veamos las nuevas opciones habilitadas. Se crea por defecto un envío (en caso tengamos productos que no sean servicios) y un botón para registro de las facturas del proveedor.
 
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/confirma_venta.png)
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab06/imgs/2solicitud_validada.png)
    
 **3. Recepción de compras**
 
-   * Incrementar stock del producto Manzana verde
+   * Realice una entrega parcial y luego intente crear la segunda entrega del material solicitado. Se deberán visualizar ambas entregas en la Solicitud de Presupuesto.
 
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/incrementar_stock.png)
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab06/imgs/3entrega_parcial.png)
 
 **4. Facturación de proveedores**
 
-   * Seleccionaremos la opción Lineas a facturar y daremos click en Crear y Ver Facturas. Esto creará una factura en Borrador, aún editable, donde podremos cambiar los datos que necesitemos.
+   * Proceda a crear una factura en la solicitud de presupuesto. Esta se creará en estado Borrador, así que podremos editar los datos importantes, como, por ejemplo, la referencia del proveedor (allí irá el número de la factura del proveedor), la fecha de factura, fecha de vencimiento, etc.
    
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/factura_borrador.png)
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab06/imgs/4banco_crear.png)
    
-   A* l igual que con otros documentos, aparecerán nuevas opciones en esta factura. Podremos incluso crear un correo con el adjunto de la factura generada para pagar.
+   * Así mismo, en la pestaña Ventas y Compras del formulario de detalle del proveedor podremos ver la sección Pagos, donde podremos registrar una cuenta bancaria del proveedor. Registre una cuenta para dicho proveedor y adjunte una imagen del proceso de creación.
    
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/email.png)
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab06/imgs/4proveedores.png)
    
-   * Si vemos el detalle de la factura, en la parte de los totales veremos registrado el pago y el saldo
-pendiente de pago.
+   * Si buscamos los detalles del proveedor (indique como llegó a este formulario) veremos que ahora aparece en su detalle una compra y una factura de proveedor.
    
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/detalle_factura.png)
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab06/imgs/4preveedores_detalle.png)
    
-   * Al haber validado esta factura, se afectará al estado del cliente. Si buscamos en el menú Clientes, veremos que nuestro contacto ahora tiene un indicador de cuantas ventas tiene.
-
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/cantidad_ventas.png)
+  
    
 **5. Tarifas de proveedores**
 
-   * De click en Editar para modificar el servidor de correo. Ingresaremos la siguiente data. Reemplace el correo por el suyo propio de Tecsup y coloque la contraseña que utiliza para iniciar sesión.
+   * Se habilitará entonces un menú de Tarifas de Compra, en el que podremos establecer distintos precios para un mismo proveedor de acuerdo a las cantidades entregadas.
    
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/envio_correo.png)
-
-   * Aqui hacemos clic en el boton probar conexion y esperamos, verá que rechaza su solicitud. Esto es debido a
-una protección por defecto de Gmail. Vamos a deshabilitarla.
-
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/probar_conexion.png)
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab06/imgs/5tarifa_compra.png)
 
 **6. Licitaciones**
 
-   * Modificaremos la secuencia para que tenga la siguiente forma. Fíjese que estamos usando la notación de años indicada en la parte inferior y aumentamos el tamaño de la secuencia a 5
+   * Valide el proceso e intente averiguar cómo elegir un ganador de este proceso. Odoo lo ayudará a elegir dicho ganador y seguir el proceso tradicional de la facturación y las entregas. Adjunte imágenes de todo lo relatado.
 
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/secuencias.png)
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab06/imgs/6solicitud_presupuesto.png)
 
 **7. Módulos de terceros**
 
-   * Procedemos a crear otra cotización y cambiamos la Lista de Precio (este campo no estaba activado antes)
+   * Buscaremos el módulo Top Buying Products. Escogeremos la segunda opción de la búsqueda (el resultado con el nombre tal cual hemos escrito) Estamos escogiendo este módulo ya que es uno gratuito.
 
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab05/imgs/lista_precio_cotizacion.png)
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab06/imgs/7install_top_buying_prodducts.png)
 
 
