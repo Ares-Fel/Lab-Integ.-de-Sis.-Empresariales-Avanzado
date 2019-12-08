@@ -2,19 +2,19 @@
 # Lab07 - MÓDULO PUNTO DE VENTA
 ## Desarrollo
 
-**1. Instalación de Módulo Punto de Venta.**
+**1. Configuración inicial.**
 
    * Vaya al menú de Aplicaciones e instale el módulo ventas.
    
    ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/1_punto_venta.PNG)
    
-**2. Funcionamiento del Punto de Venta**
+**2. Módulos a instalar**
    
    ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/2_crear_cliente.gif)
    
    ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/2.5_comprobante.PNG)
    
-**3. Añadiendo control al POS.**
+**3. Creación de módulo Facturación**
 
    ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/3.4_Comprobante.PNG)
    
@@ -23,22 +23,21 @@
    ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/3.7.PNG)
    
 
-**4. Categorías de Productos**
+**4. Vista de formulario**
 
    ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/4.5.PNG)
    
    
-**5. Configuración de restaurant.**
+**5. Vista de búsqueda**
    
    ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/5.3_Poner.PNG)
    ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/5.3_Sacar.PNG)
    ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/5.5_Cobro.gif)
    ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/5.5_Manejo%20de%20pedidos.gif)
 
+**7. Data por defecto**
+**7. Verificación de API automática**
+**8. Herencia de modelos**
+**Conclucsiones**
 
-**5. Conclusiones.**
-
-  * La configuracion de punto de venta nos permite crear categorias para nuestros productos, asi al omento de realizar los pedidos podemos dividdirlos.
-  * La interfaz de punto de venta permita la manipulacion de pagos y peddidos para el administrador o encargado de ralizarlos.
-  * Al activar la opcion de bar/restaurant en el punto de venta, nos perite realizar un ddiagrama de las distribucion de las mesas del estableciemiento lo que facilita la organizacion, hacer transefrenecias de mesa a mesa, imprimir las cuentas para los usuarios, etc.
-
+  
