@@ -1,61 +1,46 @@
 
-# Lab06 - MÓDULO DE COMPRAS
+# Lab07 - MÓDULO PUNTO DE VENTA
 ## Desarrollo
 
-**1. Instalación de Módulo Compras.**
+**1. Instalación de Módulo Punto de Venta.**
 
    * Vaya al menú de Aplicaciones e instale el módulo Compras.
    
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab06/imgs/1modulo_compras.png)
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/1_punto_venta.PNG)
    
-**2. Creación de Solicitud de presupuesto**
-
-   * Podemos ver que al crear la solicitud de presupuesto se habilitan las opciones de Imprimir e incluso enviar por correo electrónico.
+**2. Funcionamiento del Punto de Venta**
    
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab06/imgs/2correo.png)
-
-   * Validemos la Solicitud de presupuesto y veamos las nuevas opciones habilitadas. Se crea por defecto un envío (en caso tengamos productos que no sean servicios) y un botón para registro de las facturas del proveedor.
-
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab06/imgs/2solicitud_validada.png)
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/2_crear_cliente.gif)
    
-**3. Recepción de compras**
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/2.5_comprobante.PNG)
+   
+**3. Añadiendo control al POS.**
 
    * Realice una entrega parcial y luego intente crear la segunda entrega del material solicitado. Se deberán visualizar ambas entregas en la Solicitud de Presupuesto.
 
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab06/imgs/3entrega_parcial.png)
-
-**4. Facturación de proveedores**
-
-   * Proceda a crear una factura en la solicitud de presupuesto. Esta se creará en estado Borrador, así que podremos editar los datos importantes, como, por ejemplo, la referencia del proveedor (allí irá el número de la factura del proveedor), la fecha de factura, fecha de vencimiento, etc.
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/3.4_Comprobante.PNG)
    
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab06/imgs/4banco_crear.png)
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/3.4.PNG)
    
-   * Así mismo, en la pestaña Ventas y Compras del formulario de detalle del proveedor podremos ver la sección Pagos, donde podremos registrar una cuenta bancaria del proveedor. Registre una cuenta para dicho proveedor y adjunte una imagen del proceso de creación.
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/3.7.PNG)
    
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab06/imgs/4proveedores.png)
+
+**4. Categorías de Productos**
+
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/4.5.PNG)
    
-   * Si buscamos los detalles del proveedor (indique como llegó a este formulario) veremos que ahora aparece en su detalle una compra y una factura de proveedor.
    
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab06/imgs/4preveedores_detalle.png)
+**5. Configuración de restaurant.**
    
-  
-   
-**5. Tarifas de proveedores**
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/5.3_Poner.PNG)
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/5.3_Sacar.PNG)
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/5.5_Cobro.gif)
+   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/5.5_Manejo%20de%20pedidos.gif)
 
-   * Se habilitará entonces un menú de Tarifas de Compra, en el que podremos establecer distintos precios para un mismo proveedor de acuerdo a las cantidades entregadas.
-   
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab06/imgs/5tarifa_compra.png)
 
-**6. Licitaciones**
+**5. Conclusiones.**
 
-   * Valide el proceso e intente averiguar cómo elegir un ganador de este proceso. Odoo lo ayudará a elegir dicho ganador y seguir el proceso tradicional de la facturación y las entregas. Adjunte imágenes de todo lo relatado.
-
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab06/imgs/6solicitud_presupuesto.png)
-
-**7. Módulos de terceros**
-
-   * Buscaremos el módulo Top Buying Products. Escogeremos la segunda opción de la búsqueda (el resultado con el nombre tal cual hemos escrito) Estamos escogiendo este módulo ya que es uno gratuito.
-
-   ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab06/imgs/7install_top_buying_prodducts.png)
-
+  * La configuracion de punto de venta nos permite crear categorias para nuestros productos, asi al omento de realizar los pedidos podemos dividdirlos.
+  * La interfaz de punto de venta permita la manipulacion de pagos y peddidos para el administrador o encargado de ralizarlos.
+  * Al activar la opcion de bar/restaurant en el punto de venta, nos perite realizar un ddiagrama de las distribucion de las mesas del estableciemiento lo que facilita la organizacion, hacer transefrenecias de mesa a mesa, imprimir las cuentas para los usuarios, etc.
 
