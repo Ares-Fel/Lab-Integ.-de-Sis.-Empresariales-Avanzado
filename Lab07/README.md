@@ -4,7 +4,7 @@
 
 **1. Instalación de Módulo Punto de Venta.**
 
-   * Vaya al menú de Aplicaciones e instale el módulo Compras.
+   * Vaya al menú de Aplicaciones e instale el módulo ventas.
    
    ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/1_punto_venta.PNG)
    
@@ -15,8 +15,6 @@
    ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/2.5_comprobante.PNG)
    
 **3. Añadiendo control al POS.**
-
-   * Realice una entrega parcial y luego intente crear la segunda entrega del material solicitado. Se deberán visualizar ambas entregas en la Solicitud de Presupuesto.
 
    ![](https://github.com/Ares-Fel/Lab-Integ.-de-Sis.-Empresariales-Avanzado/blob/master/Lab07/imgs/3.4_Comprobante.PNG)
    
